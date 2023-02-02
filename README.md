@@ -9,7 +9,7 @@ This is my portfolio web page build using HTML5Up design template
 - Linters
 
 ## Live Demo
-[Live Demo Link](https://benardop.github.io/math-magicians/)
+[Live Demo Link](https://benardop.github.io/portfolio-site/)
 
 
 Please get your browser update.
