@@ -1,34 +1,55 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Web Page
+This is my portfolio web page build using HTML5Up design template
+ 
+## Built With the following
+
+- HTML
+- CSS
+- Javascript
+- Linters
+
+## Live Demo
+[Live Demo Link](https://benardop.github.io/math-magicians/)
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Run the command below from the Terminal:
 
-(* = Not included)
+      git clone <URL> 'https://github.com/benardop/portfolio-site.git' in your terminal
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+	  cd portfolio-site
+        run the following commend to install packages:
+        npm install
 
-AJ
-aj@lkn.io | @ajlkn
+## Usage
+Run the following command in yout terminal to start your local server to run the App:
+npm run start
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Authors
 
+👤 **Benard**
 
-Credits:
+- Location: Brazil
+- GitHub: [benardop](https://github.com/benardop/)
+- Twitter: [@Bepacho](https://twitter.com/Bepacho)
+- LinkedIn: [Benard Pacho](https://www.linkedin.com/in/ochieng-benard-8264b815/)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🤝 Contributing
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Contributions, issues, and feature requests are welcome!
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to check the [issues page](https://github.com/benardop/portfolio-site/issues).
+
+## Show your support
+
+Give a ⭐ if you like this project!
+
+## Acknowledgments
+
+- Thanks to Microverse team and my session Coding Partners
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
